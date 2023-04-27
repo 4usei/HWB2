@@ -1,5 +1,5 @@
 # HWB2
-### author: 2020283104 王鸿斌
+### author: 
 ## 测试用图  
 尺寸：1290*720
  ![image.jpg](image.jpg)
